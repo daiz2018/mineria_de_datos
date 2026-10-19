@@ -1,0 +1,6 @@
+Aspecto,Resultado,Decisión
+Duplicados,0 exactos en la tabla original,No borrar matrículas solo por repetir persona
+Faltantes,Rendimiento ausente en todo 2018,Conservar ausencias; cálculos con valores disponibles
+Texto,Categorías normalizadas sin convertir nulos a palabras,Limpiar espacios/mayúsculas; conflictos explícitos
+Unidad,60924 unidades estudiante-programa-año,Mediana numérica; categoría consistente por grupo
+Extremos,Cuantificados por IQR en cada variable,Conservar y revisar por contexto

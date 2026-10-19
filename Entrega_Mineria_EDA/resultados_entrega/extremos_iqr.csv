@@ -1,0 +1,5 @@
+variable,n_observados,q1,q3,limite_inferior,limite_superior,n_extremos
+rendimiento_total,38351,65.71,100.0,14.274999999999984,151.435,3640
+cred_sup,60924,24.0,60.0,-30.0,114.0,552
+cred_mat_total,60924,46.5,60.0,26.25,80.25,8410
+rend_total_ultimo,43770,70.0,100.0,25.0,145.0,3141

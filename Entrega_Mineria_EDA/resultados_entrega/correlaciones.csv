@@ -1,0 +1,7 @@
+variable_1,variable_2,pares_validos,r,clasificacion
+rendimiento_total,cred_sup,38351,0.6650762643993803,"Fuerte, dirección positiva"
+rendimiento_total,cred_mat_total,38351,0.2118420789634105,"Débil, dirección positiva"
+rendimiento_total,rend_total_ultimo,28510,0.49656700750766847,"Moderada, dirección positiva"
+cred_sup,cred_mat_total,60924,0.5105999935208115,"Fuerte, dirección positiva"
+cred_sup,rend_total_ultimo,43770,0.5602054445148571,"Fuerte, dirección positiva"
+cred_mat_total,rend_total_ultimo,43770,0.35245192472511944,"Moderada, dirección positiva"

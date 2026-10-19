@@ -112,3 +112,17 @@ Igualde-Sáez, M., et al. (2025). *StudentDropoutDataset* [Conjunto de datos]. Z
 
 DOI: https://doi.org/10.5281/zenodo.17239943
 
+
+
+## Informe EDA — revisión documental
+
+La entrega reúne revisión de calidad, cuatro gráficas univariadas, dispersión, mapa de calor, cruces por estado y hallazgos con evidencia y acciones sugeridas.
+
+- [Informe de laboratorio](Entrega_Mineria_EDA/Informe_EDA_Entrega.md)
+- [Notebook ejecutado](Entrega_Mineria_EDA/EDA_Desercion_Entrega.ipynb)
+- [Instrucciones y limitaciones](Entrega_Mineria_EDA/LEEME_Entrega.md)
+- [Figuras y tablas de respaldo](Entrega_Mineria_EDA/resultados_entrega)
+
+Para ejecutarlo se necesita una copia local de `desercion_estudiantes.db`, con las tablas `estudiantes_consolidados` y `estudiantes_limpios`. La base no se publica en este repositorio. La fuente original está en [Zenodo](https://doi.org/10.5281/zenodo.17239943); la base preparada debe obtenerse del equipo. Consultar las instrucciones de la entrega para rutas y dependencias.
+
+Los códigos A/B y el horizonte de abandono siguen pendientes de definición autorizada. Los cruces se presentan como códigos y no como tasas de deserción interpretadas.
